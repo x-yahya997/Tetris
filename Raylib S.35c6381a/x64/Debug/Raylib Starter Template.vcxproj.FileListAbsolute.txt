@@ -1,0 +1,6 @@
+C:\Users\Yahya\Downloads\C++\Creating Tetris in C++ with raylib\Tetris\x64\Debug\raylib.dll
+C:\Users\Yahya\Downloads\C++\Creating Tetris in C++ with raylib\Tetris\x64\Debug\glfw3.dll
+C:\Users\Yahya\Downloads\C++\Creating Tetris in C++ with raylib\Tetris\Raylib S.35c6381a\x64\Debug\Raylib S.F7D1B5DE.Up2Date
+C:\Users\Yahya\Documents\Visual Studio 2022\Raylibs\Tetris\x64\Debug\raylib.dll
+C:\Users\Yahya\Documents\Visual Studio 2022\Raylibs\Tetris\x64\Debug\glfw3.dll
+C:\Users\Yahya\Documents\Visual Studio 2022\Raylibs\Tetris\Raylib S.35c6381a\x64\Debug\Raylib S.F7D1B5DE.Up2Date
