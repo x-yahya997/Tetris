@@ -62,8 +62,7 @@
               "RelativeToolTip": "src\\game.cpp",
               "ViewState": "AgIAAEYAAAAAAAAAAAAxwFQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-19T14:42:43.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T14:42:43.82Z"
             },
             {
               "$type": "Document",
@@ -111,8 +110,7 @@
               "RelativeToolTip": "src\\block.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-16T15:18:31.824Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T15:18:31.824Z"
             },
             {
               "$type": "Document",
@@ -122,7 +120,7 @@
               "RelativeDocumentMoniker": "src\\block.h",
               "ToolTip": "C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\block.h",
               "RelativeToolTip": "src\\block.h",
-              "ViewState": "AgIAAAoAAAAAAAAAAIAzwA4AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-16T14:57:39.519Z",
               "EditorCaption": ""
