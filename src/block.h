@@ -13,6 +13,7 @@ public:
 	void Move(int rows, int column);
 	std::vector<Position> GetCellPosition();
 	void Rotate();
+	void UndoRotation();
 	int id;
 	std::map<int, std::vector<Position>>cells;
 

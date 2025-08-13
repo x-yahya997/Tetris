@@ -1,0 +1,4 @@
+C:\Users\Yahya\Documents\Visual Studio 2022\Raylibs\Tetris\x64\Debug\RayLib_Tetris.vcxproj.CopyComplete
+C:\Users\Yahya\Documents\Visual Studio 2022\Raylibs\Tetris\x64\Debug\RayLib_Tetris.exe
+C:\Users\Yahya\Documents\Visual Studio 2022\Raylibs\Tetris\x64\Debug\raylib.dll
+C:\Users\Yahya\Documents\Visual Studio 2022\Raylibs\Tetris\x64\Debug\glfw3.dll

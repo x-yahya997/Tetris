@@ -1,0 +1,12 @@
+﻿  block.cpp
+C:\Users\Yahya\Documents\Visual Studio 2022\Raylibs\Tetris\src\block.cpp(57,32): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  blocks.cpp
+  colors.cpp
+  game.cpp
+  grid.cpp
+  main.cpp
+  position.cpp
+  Generating Code...
+  RayLib_Tetris.vcxproj -> C:\Users\Yahya\Documents\Visual Studio 2022\Raylibs\Tetris\x64\Debug\RayLib_Tetris.exe
+  'pwsh.exe' is not recognized as an internal or external command,
+  operable program or batch file.

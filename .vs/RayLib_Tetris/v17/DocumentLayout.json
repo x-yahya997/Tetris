@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|solutionrelative:src\\block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\blocks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|solutionrelative:src\\blocks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|solutionrelative:src\\block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\position.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|solutionrelative:src\\position.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\position.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|solutionrelative:src\\position.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -19,20 +23,16 @@
       "RelativeMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|solutionrelative:src\\game.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|solutionrelative:src\\grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|solutionrelative:src\\grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|solutionrelative:src\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\blocks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|solutionrelative:src\\blocks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|solutionrelative:src\\block.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|solutionrelative:src\\block.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\colors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -41,6 +41,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\colors.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|solutionrelative:src\\colors.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|solutionrelative:src\\grid.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{35C6381A-336C-4883-AAC1-A77726EEC5B9}|RayLib_Tetris.vcxproj|solutionrelative:src\\grid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -54,76 +62,103 @@
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "position.cpp",
+              "DocumentMoniker": "C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\position.cpp",
+              "RelativeDocumentMoniker": "src\\position.cpp",
+              "ToolTip": "C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\position.cpp",
+              "RelativeToolTip": "src\\position.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-13T01:07:46.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "position.h",
+              "DocumentMoniker": "C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\position.h",
+              "RelativeDocumentMoniker": "src\\position.h",
+              "ToolTip": "C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\position.h",
+              "RelativeToolTip": "src\\position.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-13T01:07:44.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "game.cpp",
               "DocumentMoniker": "C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\game.cpp",
               "RelativeDocumentMoniker": "src\\game.cpp",
               "ToolTip": "C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\game.cpp",
               "RelativeToolTip": "src\\game.cpp",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAxwFQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAG8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-19T14:42:43.82Z"
+              "WhenOpened": "2024-09-19T14:42:43.82Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "game.h",
               "DocumentMoniker": "C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\game.h",
               "RelativeDocumentMoniker": "src\\game.h",
               "ToolTip": "C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\game.h",
               "RelativeToolTip": "src\\game.h",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAxwBQAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-19T14:39:18.359Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\main.cpp",
               "RelativeDocumentMoniker": "src\\main.cpp",
               "ToolTip": "C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\main.cpp",
               "RelativeToolTip": "src\\main.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-15T15:40:38.645Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "blocks.cpp",
               "DocumentMoniker": "C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\blocks.cpp",
               "RelativeDocumentMoniker": "src\\blocks.cpp",
               "ToolTip": "C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\blocks.cpp",
               "RelativeToolTip": "src\\blocks.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEUAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-17T15:50:18.393Z"
+              "WhenOpened": "2024-09-17T15:50:18.393Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "block.cpp",
               "DocumentMoniker": "C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\block.cpp",
               "RelativeDocumentMoniker": "src\\block.cpp",
               "ToolTip": "C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\block.cpp",
               "RelativeToolTip": "src\\block.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-16T15:18:31.824Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 7,
               "Title": "block.h",
               "DocumentMoniker": "C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\block.h",
               "RelativeDocumentMoniker": "src\\block.h",
               "ToolTip": "C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\block.h",
               "RelativeToolTip": "src\\block.h",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-09-16T14:57:39.519Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-16T14:57:39.519Z"
             },
             {
               "$type": "Document",
@@ -151,25 +186,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "grid.cpp",
               "DocumentMoniker": "C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\grid.cpp",
               "RelativeDocumentMoniker": "src\\grid.cpp",
               "ToolTip": "C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\grid.cpp",
               "RelativeToolTip": "src\\grid.cpp",
-              "ViewState": "AgIAACwAAAAAAAAAAAAxwDsAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFYAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-15T15:39:59.655Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 10,
               "Title": "grid.h",
               "DocumentMoniker": "C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\grid.h",
               "RelativeDocumentMoniker": "src\\grid.h",
               "ToolTip": "C:\\Users\\Yahya\\Documents\\Visual Studio 2022\\Raylibs\\Tetris\\src\\grid.h",
               "RelativeToolTip": "src\\grid.h",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-15T09:01:00.484Z"
             }
